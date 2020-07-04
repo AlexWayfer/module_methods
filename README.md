@@ -1,5 +1,13 @@
 # Module Methods
 
+![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/module_methods?style=flat-square)
+[![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/module_methods/master.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/module_methods)
+[![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/module_methods.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/module_methods)
+![Depfu](https://img.shields.io/depfu/AlexWayfer/module_methods?style=flat-square)
+[![Inline docs](https://inch-ci.org/github/AlexWayfer/module_methods.svg?branch=master)](https://inch-ci.org/github/AlexWayfer/module_methods)
+[![license](https://img.shields.io/github/license/AlexWayfer/module_methods.svg?style=flat-square)](https://github.com/AlexWayfer/module_methods/blob/master/LICENSE)
+[![Gem](https://img.shields.io/gem/v/module_methods.svg?style=flat-square)](https://rubygems.org/gems/module_methods)
+
 Extendable module for modules with instance and class methods.
 These modules can be included into each other modules and saving all chain,
 including `inherited` or `included` (class) methods.
