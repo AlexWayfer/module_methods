@@ -1,11 +1,11 @@
 # Module Methods
 
-![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/module_methods?style=flat-square)
+[![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/module_methods?style=flat-square)](https://cirrus-ci.com/github/AlexWayfer/module_methods)
 [![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/module_methods/master.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/module_methods)
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/module_methods.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/module_methods)
-![Depfu](https://img.shields.io/depfu/AlexWayfer/module_methods?style=flat-square)
+[![Depfu](https://img.shields.io/depfu/AlexWayfer/benchmark_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/module_methods)
 [![Inline docs](https://inch-ci.org/github/AlexWayfer/module_methods.svg?branch=master)](https://inch-ci.org/github/AlexWayfer/module_methods)
-[![license](https://img.shields.io/github/license/AlexWayfer/module_methods.svg?style=flat-square)](https://github.com/AlexWayfer/module_methods/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/AlexWayfer/module_methods.svg?style=flat-square)](https://github.com/AlexWayfer/module_methods/blob/master/LICENSE.txt)
 [![Gem](https://img.shields.io/gem/v/module_methods.svg?style=flat-square)](https://rubygems.org/gems/module_methods)
 
 Extendable module for modules with instance and class methods.
