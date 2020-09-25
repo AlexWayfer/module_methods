@@ -3,6 +3,7 @@
 describe ModuleMethods::Extension do
 	## I don't know why, but `stub_const` and `let` don't work correctly
 	# rubocop:disable RSpec/LeakyConstantDeclaration
+	# rubocop:disable Lint/ConstantDefinitionInBlock
 	module SomeCommonCode
 		extend ::ModuleMethods::Extension
 
@@ -90,6 +91,7 @@ describe ModuleMethods::Extension do
 	class EndPoint < BaseClass
 	end
 	# rubocop:enable RSpec/LeakyConstantDeclaration
+	# rubocop:enable Lint/ConstantDefinitionInBlock
 
 	describe EndPoint do
 		subject { described_class }
