@@ -34,7 +34,7 @@ Gem::Specification.new do |spec|
 
 	spec.files = Dir['lib/**/*.rb', 'README.md', 'LICENSE.txt', 'CHANGELOG.md']
 
-	spec.add_development_dependency 'activesupport', '~> 6.0'
+	spec.add_development_dependency 'activesupport', '~> 7.0'
 	spec.add_development_dependency 'bundler', '~> 2.0'
 	spec.add_development_dependency 'pry-byebug', '~> 3.9'
 
