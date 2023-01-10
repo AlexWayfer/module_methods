@@ -46,10 +46,6 @@ rubocop_task:
     )
 
 rspec_task:
-  depends_on:
-    - remark
-    - rubocop
-
   container:
     matrix:
       image: ruby:2.7
