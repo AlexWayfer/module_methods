@@ -14,7 +14,7 @@ module ModuleMethods
 		##   will be included
 		## @yield a block just will be passed to the `super`;
 		##   it's for `ActiveSupport::Concern` compatibility
-		def included(base = nil, &block)
+		def included(base = nil, &)
 			super
 
 			return unless base
