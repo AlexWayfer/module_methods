@@ -33,5 +33,6 @@
 			"matchDatasources": ["rubygems"],
 			"groupName": "Toys packages"
 		}
-	]
+	],
+	"separateMajorMinor": false
 }
