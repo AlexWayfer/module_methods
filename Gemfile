@@ -6,7 +6,6 @@ gemspec
 
 group :development do
 	gem 'activesupport', '~> 8.0'
-	gem 'bundler', '~> 2.0'
 	gem 'pry-byebug', '~> 3.9'
 
 	gem 'gem_toys', '~> 0.16.0'
